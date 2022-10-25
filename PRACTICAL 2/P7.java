@@ -2,7 +2,8 @@ import java.util.*;
 
 public class P7
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner sc=new Scanner(System.in);
         String s,p,x;
         s="CHARUSAT University";

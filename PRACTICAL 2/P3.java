@@ -26,10 +26,7 @@ public class P3{
 	System.out.println("\n D22DCE159 MANN PATEL");
 
 	}
-	
-		
-		
-	
+
 	static boolean array_count9(int c[])
 	{
 	boolean b=false;

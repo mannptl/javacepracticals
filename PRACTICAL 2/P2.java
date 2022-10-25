@@ -17,10 +17,7 @@ class P2
 	System.out.println("NUMBER OF 9's are : " );
 	System.out.println(ans);
 	System.out.println("D22DCE159 MANN PATEL ");
-	}
-	
-		
-		
+	}	
 	
 	static int array_count9(int c[])
 	{
